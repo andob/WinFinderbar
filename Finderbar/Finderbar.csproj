@@ -65,14 +65,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ActiveWindow.cs" />
+    <Compile Include="AppBarWindow.cs" />
+    <Compile Include="DarkThemeBitmapTransformer.cs" />
     <Compile Include="FinderbarWindow.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FinderbarWindow.Designer.cs">
       <DependentUpon>FinderbarWindow.cs</DependentUpon>
     </Compile>
+    <Compile Include="MouseClickSimulator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ActiveWindowMenu.cs" />
     <EmbeddedResource Include="FinderbarWindow.resx">
       <DependentUpon>FinderbarWindow.cs</DependentUpon>
     </EmbeddedResource>
