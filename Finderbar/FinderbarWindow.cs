@@ -54,7 +54,6 @@ namespace WinFinderbar
         
         private void OnWindowTitleLabelClicked(object sender, EventArgs e)
         {
-            //todo simulate window icon click
             if (this.ActiveWindow!=null)
             {
                 Point windowLocation=this.ActiveWindow.Location;

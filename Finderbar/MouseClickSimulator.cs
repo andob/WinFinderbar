@@ -33,8 +33,6 @@ namespace WinFinderbar
             
             mouse_event(MOUSEEVENTF_MOVE|MOUSEEVENTF_LEFTDOWN|MOUSEEVENTF_LEFTUP, 
                 (uint)x, (uint)y, 0, 0);
-            
-            //todo move mouse cursor
         }
 
         public static void SimulateRightClick(int x, int y)
