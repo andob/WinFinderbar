@@ -14,7 +14,7 @@ Sticky always on top menu bar for Windows, similar to MacOS Finder menu bar.
 ### Licence
 
 ```kotlin
-Copyright 2015-2019 Andrei Dobrescu
+Copyright 2015-2020 Andrei Dobrescu
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
