@@ -4,7 +4,7 @@ Sticky always on top menu bar for Windows, similar to MacOS Finder menu bar.
 
 ![](https://github.com/andob/WinFinderbar/raw/master/demo.jpg)
 
-### [.exe file](https://maven.andob.info/repository/open_source/ro/andob/winfinderbar/WinFinderbar/1.1.0/WinFinderbar.exe)
+### [.exe file](https://andob.io/repository/open_source/ro/andob/winfinderbar/WinFinderbar/1.1.0/WinFinderbar.exe)
 
 ### Features:
 
